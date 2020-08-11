@@ -2,6 +2,8 @@
 * How to install puppeteer - I've had some problems at first running it on WSL
 * Basic usage of puppeteer
 * Written first end-to-end test
+* How to create simple static website with jekyll and host it to gh-pages
+* Maded my first Pull Request :D
 
 ## Done:
 * Fixed small bugs in the Tribute Page Project
