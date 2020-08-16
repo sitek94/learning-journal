@@ -30,6 +30,7 @@ github_username:  sitek94
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 defaults:
   -
