@@ -14,6 +14,6 @@ I implemented what I learned to my interactive scatter plot and it's now working
 Now I'm working on adding panning and zooming to the world map and globe. It's fairly easy to apply the logic to the 
 flat map but it's getting trickier to do the same thing with the globe.
 
-I managed to do that but the code is a mess at the moment so I need to orginize it and optimize it because it's lagging.
+I managed to do that but the code is a mess at the moment so I need to organize and optimize it because it's lagging.
 <hr>
 Total: 7hrs
