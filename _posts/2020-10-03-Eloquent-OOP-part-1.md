@@ -24,4 +24,5 @@ All the above concepts where somewhat familiar but the following ones where tota
 * add tooltips to navbar
 * extract countries tooltip to separate component
 * (in progress) modal component
-
+<hr>
+Total: 7.5hrs
