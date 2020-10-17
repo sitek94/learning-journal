@@ -114,3 +114,16 @@ function Promise_all(promises) {
   });
 }
 ```
+
+## Pocket globe app
+
+A lot of progress today. Some of the things that I've been working on:
+* keyboard events 
+* navbar buttons
+* media queries
+* transitions for widgets
+
+I also tested production build and it's amazing because its blazing fast comparing to development build.
+
+<hr>
+Total: 8.5hrs
