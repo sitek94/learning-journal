@@ -32,6 +32,6 @@ db.posts.aggregate([
 ```
 
 Resources that helped a lot:
-[Exactly what I was looking for](https://studio3t.com/knowledge-base/articles/filter-elements-from-mongodb-arrays/)
-https://docs.mongodb.com/manual/reference/operator/aggregation/filter/index.html
-https://docs.mongodb.com/manual/aggregation/
+* [Exactly what I was looking for](https://studio3t.com/knowledge-base/articles/filter-elements-from-mongodb-arrays/)
+* [filter](https://docs.mongodb.com/manual/reference/operator/aggregation/filter/index.html)
+* [aggregation](https://docs.mongodb.com/manual/aggregation/)
